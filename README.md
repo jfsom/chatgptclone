@@ -1,4 +1,4 @@
-## Do not forget adding the OPENAI_API_KEY value in the .env.local before running the project. [Format of OPENAI_API_KEY should be like sk-proj-GLajzYdiA5yZ7PRRuGplT3BlbkFJbgESi0EPWS########## ]
+## Please Do not forget adding the OPENAI_API_KEY value in the .env.local before running the project. [Format of OPENAI_API_KEY should be like sk-proj-GLajzYdiA5yZ7PRRuGplT3BlbkFJbgESi0EPWS########## ]
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
